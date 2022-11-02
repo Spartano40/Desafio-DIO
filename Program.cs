@@ -1,6 +1,6 @@
 ﻿using System;
 class DIO {
- //       
+        
 static void Main(string[] args){
 
         int numeroEntrada = int.Parse(Console.ReadLine());
